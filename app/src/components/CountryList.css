@@ -1,0 +1,31 @@
+.country-list {
+    padding: 20px;
+}
+
+.country-list h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.country-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.country-list li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.country-list a {
+    text-decoration: none;
+    color: #3498db;
+    font-size: 1.1rem;
+}
+
+.country-list a:hover {
+    text-decoration: underline;
+}

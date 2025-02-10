@@ -1,0 +1,47 @@
+.country-info {
+    padding: 20px;
+}
+
+.country-info h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.country-flag {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.border-countries {
+    list-style: none;
+    padding: 0;
+}
+
+.border-countries li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.border-countries a {
+    text-decoration: none;
+    color: #3498db;
+    font-size: 1.1rem;
+}
+
+.border-countries a:hover {
+    text-decoration: underline;
+}
+
+.chart-container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
